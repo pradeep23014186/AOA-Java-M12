@@ -17,8 +17,8 @@ using Manacher's Algorithm
 ## Program:
 ```
 Program to implement Reverse a String
-Developed by: Krishna Prasad S
-Register Number: 212223230108
+Developed by: Pradeep Kumar G
+Register Number: 212223230150
 ```
 ```java
 import java.util.Scanner;
